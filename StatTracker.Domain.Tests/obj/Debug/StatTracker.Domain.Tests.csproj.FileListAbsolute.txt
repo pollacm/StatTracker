@@ -2,3 +2,7 @@ C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracke
 C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Domain.Tests\bin\Debug\StatTracker.Domain.Tests.pdb
 C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Domain.Tests\obj\Debug\StatTracker.Domain.Tests.dll
 C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Domain.Tests\obj\Debug\StatTracker.Domain.Tests.pdb
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\StatTracker.Domain.Tests.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\StatTracker.Domain.Tests.pdb
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\obj\Debug\StatTracker.Domain.Tests.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\obj\Debug\StatTracker.Domain.Tests.pdb

@@ -2,3 +2,8 @@ C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracke
 C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Repository.Tests\bin\Debug\StatTracker.Repository.Tests.pdb
 C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.dll
 C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.pdb
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository.Tests\bin\Debug\StatTracker.Repository.Tests.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository.Tests\bin\Debug\StatTracker.Repository.Tests.pdb
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.csprojResolveAssemblyReference.cache
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.pdb

@@ -356,4 +356,9 @@ margin-top: 20px;
    padding:10px;
 }
 
- 
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/s/opensans/v10/cJZKeOuBrn4kERxqtaUH3fY6323mHUZFJMgTvxaG2iE.eot);
+}

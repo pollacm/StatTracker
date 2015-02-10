@@ -6,8 +6,7 @@
     <title>@ViewBag.Title - My ASP.NET Application</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
-    <!--  Google Font Style -->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+    
 </head>
 <body>
     <div id="pre-div">
@@ -25,8 +24,7 @@
                 </button>
 
                 <a class="navbar-brand" href="#">
-                    <img src="assets/img/logo.png" class="navbar-brand-logo " alt="" />
-
+                    <img src="~/img/logo.png" class="navbar-brand-logo " alt="blah" />
                 </a>
             </div>
             <div class="navbar-collapse collapse move-me">
@@ -55,7 +53,11 @@
 
         </div>
     </div>
-    <div class="overlay">
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/angular")
+    @RenderSection("scripts", required: false)
+    <div ng-app="myApp" class="overlay">
         <div class="container">
             @RenderBody()
             <hr />
@@ -64,9 +66,5 @@
             </footer>
         </div>
     </div>
-
-        @Scripts.Render("~/bundles/jquery")
-        @Scripts.Render("~/bundles/bootstrap")
-        @RenderSection("scripts", required: false)
 </body>
 </html>

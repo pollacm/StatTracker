@@ -27,6 +27,10 @@ namespace StatTracker
                       "~/Scripts/wow.min.js",
                       "~/Scripts/eco.custom.js"));
 
+            bundles.Add(new ScriptBundle("~/bundles/angular").Include(
+                      "~/Scripts/angular.js",
+                      "~/Scripts/Angular/BaseController.js"));
+
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/eco.bootstrap.css",
                       "~/Content/font-awesome.min.css",
