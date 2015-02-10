@@ -1,0 +1,9 @@
+C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Repository.Mock\bin\Debug\StatTracker.Repository.Mock.dll
+C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Repository.Mock\bin\Debug\StatTracker.Repository.Mock.pdb
+C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Repository.Mock\bin\Debug\StatTracker.Domain.Objects.dll
+C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Repository.Mock\bin\Debug\StatTracker.Repository.dll
+C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Repository.Mock\bin\Debug\StatTracker.Domain.Objects.pdb
+C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Repository.Mock\bin\Debug\StatTracker.Repository.pdb
+C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Repository.Mock\obj\Debug\StatTracker.Repository.Mock.csprojResolveAssemblyReference.cache
+C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Repository.Mock\obj\Debug\StatTracker.Repository.Mock.dll
+C:\Users\rmicmp\Google Drive\Projects\Personal\StatTracker\Project123\StatTracker\StatTracker.Repository.Mock\obj\Debug\StatTracker.Repository.Mock.pdb
