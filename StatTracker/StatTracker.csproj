@@ -178,6 +178,8 @@
     <Content Include="Content\eco.bootstrap.css" />
     <Content Include="Content\eco.style.css" />
     <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\ng-grid.css" />
+    <Content Include="Content\ng-grid.min.css" />
     <Content Include="Content\prettyPhoto.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -979,6 +981,8 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\ng-grid.js" />
+    <Content Include="Scripts\ng-grid.min.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\wow.min.js" />

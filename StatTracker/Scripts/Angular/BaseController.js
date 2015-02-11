@@ -1,1 +1,1 @@
-﻿var myApp = angular.module('myApp', ['testController']);
+﻿var myApp = angular.module("myApp", ["testController", "ngGrid"]);

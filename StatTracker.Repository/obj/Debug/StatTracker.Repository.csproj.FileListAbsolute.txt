@@ -12,3 +12,10 @@ C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository\bin\Debug\Stat
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository\obj\Debug\StatTracker.Repository.csprojResolveAssemblyReference.cache
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository\obj\Debug\StatTracker.Repository.dll
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository\obj\Debug\StatTracker.Repository.pdb
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository\bin\Debug\StatTracker.Repository.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository\bin\Debug\StatTracker.Repository.pdb
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository\bin\Debug\StatTracker.Domain.Objects.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository\bin\Debug\StatTracker.Domain.Objects.pdb
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository\obj\Debug\StatTracker.Repository.csprojResolveAssemblyReference.cache
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository\obj\Debug\StatTracker.Repository.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository\obj\Debug\StatTracker.Repository.pdb

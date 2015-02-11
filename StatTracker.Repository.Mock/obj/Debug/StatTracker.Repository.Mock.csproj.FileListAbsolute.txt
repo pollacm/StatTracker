@@ -16,3 +16,12 @@ C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository.Mock\bin\Debug
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository.Mock\obj\Debug\StatTracker.Repository.Mock.csprojResolveAssemblyReference.cache
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository.Mock\obj\Debug\StatTracker.Repository.Mock.dll
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository.Mock\obj\Debug\StatTracker.Repository.Mock.pdb
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Mock\bin\Debug\StatTracker.Repository.Mock.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Mock\bin\Debug\StatTracker.Repository.Mock.pdb
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Mock\bin\Debug\StatTracker.Domain.Objects.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Mock\bin\Debug\StatTracker.Repository.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Mock\bin\Debug\StatTracker.Domain.Objects.pdb
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Mock\bin\Debug\StatTracker.Repository.pdb
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Mock\obj\Debug\StatTracker.Repository.Mock.csprojResolveAssemblyReference.cache
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Mock\obj\Debug\StatTracker.Repository.Mock.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Mock\obj\Debug\StatTracker.Repository.Mock.pdb

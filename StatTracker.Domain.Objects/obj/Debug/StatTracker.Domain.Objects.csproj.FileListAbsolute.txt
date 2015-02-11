@@ -6,3 +6,8 @@ C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Objects\bin\Debug\
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Objects\bin\Debug\StatTracker.Domain.Objects.pdb
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Objects\obj\Debug\StatTracker.Domain.Objects.dll
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Objects\obj\Debug\StatTracker.Domain.Objects.pdb
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Domain.Objects\bin\Debug\StatTracker.Domain.Objects.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Domain.Objects\bin\Debug\StatTracker.Domain.Objects.pdb
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Domain.Objects\obj\Debug\StatTracker.Domain.Objects.csprojResolveAssemblyReference.cache
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Domain.Objects\obj\Debug\StatTracker.Domain.Objects.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Domain.Objects\obj\Debug\StatTracker.Domain.Objects.pdb

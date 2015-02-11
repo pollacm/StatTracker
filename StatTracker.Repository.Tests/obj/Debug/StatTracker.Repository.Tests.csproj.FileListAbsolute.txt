@@ -7,3 +7,8 @@ C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository.Tests\bin\Debu
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.csprojResolveAssemblyReference.cache
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.dll
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.pdb
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Tests\bin\Debug\StatTracker.Repository.Tests.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Tests\bin\Debug\StatTracker.Repository.Tests.pdb
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.csprojResolveAssemblyReference.cache
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.pdb
