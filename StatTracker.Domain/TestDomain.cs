@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using StatTracker.Domain.Objects;
 using StatTracker.Repository;
@@ -15,14 +16,14 @@ namespace StatTracker.Domain
             _repository = repository ?? new TestRepository();
         }
 
-        public List<Test> GetTestData()
+        public IEnumerable<Test> GetTestData()
         {
             return _repository.GetTestData().ToList();
         }
 
         public Test GetTestByFirstName(string firstName)
         {
-            return _repository.GetTestData().SingleOrDefault(t => t.FirstName == firstName);
+            return _repository.GetTestData().SingleOrDefault(t => String.Equals(t.FirstName, firstName, StringComparison.CurrentCultureIgnoreCase));
         }
     }
 }

@@ -11,7 +11,7 @@ namespace StatTracker.api
     {
         private readonly TestDomain _testDomain = new TestDomain(new TestRepositoryMock());
 
-        //GET api/<controller>
+        //GET api/testapi/all
         [HttpGet]
         [Route("All", Name = "All")]
         public IEnumerable<Test> GetAllTests()
@@ -19,7 +19,7 @@ namespace StatTracker.api
             return _testDomain.GetTestData();
         }
 
-        //GET api/<controller>/Curtis
+        //GET api/testapi/get/Curtis
         [HttpGet]
         [Route("Get/{firstName}", Name = "Get")]
         public IHttpActionResult Get(string firstName)
