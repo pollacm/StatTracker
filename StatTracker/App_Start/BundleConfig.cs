@@ -29,6 +29,7 @@ namespace StatTracker
             bundles.Add(new ScriptBundle("~/bundles/angular").Include(
                 "~/Scripts/angular.js",
                 "~/Scripts/ng-grid.js",
+                "~/Scripts/ng-grid-flexible-height.js",
                 "~/Scripts/Angular/BaseController.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(

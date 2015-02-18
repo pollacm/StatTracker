@@ -148,3 +148,9 @@ E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\bin\Debug\StatTracker.Rep
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\obj\Debug\StatTracker.Tests.csprojResolveAssemblyReference.cache
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\obj\Debug\StatTracker.Tests.dll
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\obj\Debug\StatTracker.Tests.pdb
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Tests\bin\Debug\System.Net.Http.Formatting.xml

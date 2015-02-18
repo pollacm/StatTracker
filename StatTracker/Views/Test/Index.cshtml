@@ -1,8 +1,10 @@
-﻿@model List<StatTracker.Domain.Objects.Test>
-@{
+﻿@{
     ViewBag.Title = "Test Page";
 }
 <script src="~/Scripts/Angular/TestController.js"></script>
+
 <div ng-controller="testController">
-    <div class="gridStyle" ng-grid="gridOptions"></div>    
+    <div class="gridContainer">
+        <div class="gridStyle" ng-grid="gridOptions"></div>
+    </div>
 </div>

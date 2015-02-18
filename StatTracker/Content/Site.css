@@ -1,17 +1,29 @@
-﻿.gridStyle {
-    border: 1px solid rgb(212,212,212);
-    height: 300px;
+﻿.gridContainer {
+    border: 10px solid #242222;
 }
 
 .ngCellText, .ngHeaderText {
-    color: black;
-    font: bold 10px verdana;
+    
     line-height: 14px;
     padding: 7px;
     border: 1px solid white;
 }
 
+.ngCellText {
+    font: bold 10px verdana;
+    color: black;
+}
+
+.ngHeaderText {
+    font: bold 10px verdana;
+    color: white;
+}
+
 .ngHeaderSortColumn {
     background-color: rgb(191, 10, 10);
     border: 1px solid white;
+}
+
+.gridStyle {
+    
 }

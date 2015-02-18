@@ -10,7 +10,7 @@ namespace StatTracker.Controllers
 
         public ActionResult Index()
         {
-            return View(_testDomain.GetTestData());
+            return View();
         }
     }
 }

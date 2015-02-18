@@ -5,6 +5,6 @@ namespace StatTracker.Repository.Interfaces
 {
     public interface ITestRepository
     {
-        List<Test> GetTestData();
+        IEnumerable<Test> GetTestData();
     }
 }

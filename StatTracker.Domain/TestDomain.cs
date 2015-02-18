@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using StatTracker.Domain.Objects;
 using StatTracker.Repository;
 using StatTracker.Repository.Interfaces;
@@ -16,7 +17,12 @@ namespace StatTracker.Domain
 
         public List<Test> GetTestData()
         {
-            return _repository.GetTestData();
+            return _repository.GetTestData().ToList();
+        }
+
+        public Test GetTestByFirstName(string firstName)
+        {
+            return _repository.GetTestData().SingleOrDefault(t => t.FirstName == firstName);
         }
     }
 }

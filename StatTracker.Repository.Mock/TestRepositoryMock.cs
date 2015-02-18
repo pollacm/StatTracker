@@ -7,7 +7,7 @@ namespace StatTracker.Repository.Mock
 {
     public class TestRepositoryMock : ITestRepository
     {
-        public List<Test> GetTestData()
+        public IEnumerable<Test> GetTestData()
         {
             return new List<Test>
             {

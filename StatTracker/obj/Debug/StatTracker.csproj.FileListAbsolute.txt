@@ -187,3 +187,9 @@ E:\Misc\Code\StatTracker\StatTracker\StatTracker\bin\Microsoft.Owin.Security.Mic
 E:\Misc\Code\StatTracker\StatTracker\StatTracker\obj\Debug\StatTracker.csprojResolveAssemblyReference.cache
 E:\Misc\Code\StatTracker\StatTracker\StatTracker\obj\Debug\StatTracker.dll
 E:\Misc\Code\StatTracker\StatTracker\StatTracker\obj\Debug\StatTracker.pdb
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker\bin\System.Net.Http.Formatting.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker\bin\System.Web.Http.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker\bin\System.Web.Http.WebHost.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker\bin\System.Net.Http.Formatting.xml
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker\bin\System.Web.Http.xml
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker\bin\System.Web.Http.WebHost.xml

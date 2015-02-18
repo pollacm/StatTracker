@@ -7,7 +7,7 @@ namespace StatTracker.Repository
 {
     public class TestRepository : ITestRepository
     {
-        public List<Test> GetTestData()
+        public IEnumerable<Test> GetTestData()
         {
             throw new NotImplementedException();
         }
