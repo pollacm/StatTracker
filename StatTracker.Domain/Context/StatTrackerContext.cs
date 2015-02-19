@@ -1,4 +1,5 @@
 ﻿using Ninject;
+using StatTracker.Domain.Objects;
 
 namespace StatTracker.Domain.Context
 {

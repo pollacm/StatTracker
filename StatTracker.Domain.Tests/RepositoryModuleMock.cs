@@ -2,9 +2,9 @@
 using StatTracker.Repository.Interfaces;
 using StatTracker.Repository.Mock;
 
-namespace StatTracker.Domain
+namespace StatTracker.Domain.Tests
 {
-    public class RepositoryModule : NinjectModule
+    public class RepositoryModuleMock : NinjectModule
     {
         public override void Load()
         {

@@ -11,3 +11,17 @@ E:\Misc\Code\StatTracker\StatTracker\StatTracker.Domain.Tests\bin\Debug\StatTrac
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Domain.Tests\obj\Debug\StatTracker.Domain.Tests.csprojResolveAssemblyReference.cache
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Domain.Tests\obj\Debug\StatTracker.Domain.Tests.dll
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Domain.Tests\obj\Debug\StatTracker.Domain.Tests.pdb
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\Ninject.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\StatTracker.Domain.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\StatTracker.Domain.Objects.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\StatTracker.Repository.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\StatTracker.Repository.Mock.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\StatTracker.Domain.Objects.pdb
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\StatTracker.Domain.pdb
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\StatTracker.Repository.Mock.pdb
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\StatTracker.Repository.pdb
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\Ninject.xml
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain.Tests\obj\Debug\StatTracker.Domain.Tests.csprojResolveAssemblyReference.cache

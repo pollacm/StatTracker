@@ -68,6 +68,10 @@
       <Project>{558693EA-2867-4ABE-97CD-860ACBC61AF0}</Project>
       <Name>StatTracker.Domain.Objects</Name>
     </ProjectReference>
+    <ProjectReference Include="..\StatTracker.Repository.Mock\StatTracker.Repository.Mock.csproj">
+      <Project>{6A08D8D1-08DE-47E5-B455-6581B55E534F}</Project>
+      <Name>StatTracker.Repository.Mock</Name>
+    </ProjectReference>
     <ProjectReference Include="..\StatTracker.Repository\StatTracker.Repository.csproj">
       <Project>{289FA485-4D55-4175-B608-8643F9ADA7B3}</Project>
       <Name>StatTracker.Repository</Name>

@@ -12,7 +12,7 @@ namespace StatTracker.Domain
     {
         private readonly ITestRepository _repository;
 
-        public TestDomain(StatTrackerContext context)
+        public TestDomain(IStatTrackerContext context)
         {
             _repository = context.Kernel.Get<ITestRepository>();
         }
