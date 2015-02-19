@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Ninject;
+using StatTracker.Domain.Context;
 using StatTracker.Domain.Objects;
-using StatTracker.Repository;
 using StatTracker.Repository.Interfaces;
 
 namespace StatTracker.Domain
@@ -11,9 +12,9 @@ namespace StatTracker.Domain
     {
         private readonly ITestRepository _repository;
 
-        public TestDomain(ITestRepository repository = null)
+        public TestDomain(StatTrackerContext context)
         {
-            _repository = repository ?? new TestRepository();
+            _repository = context.Kernel.Get<ITestRepository>();
         }
 
         public IEnumerable<Test> GetTestData()

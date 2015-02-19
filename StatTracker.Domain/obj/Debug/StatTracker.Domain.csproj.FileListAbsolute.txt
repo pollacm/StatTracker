@@ -25,3 +25,11 @@ E:\Misc\Code\StatTracker\StatTracker\StatTracker.Domain\bin\Debug\StatTracker.Re
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Domain\obj\Debug\StatTracker.Domain.csprojResolveAssemblyReference.cache
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Domain\obj\Debug\StatTracker.Domain.dll
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Domain\obj\Debug\StatTracker.Domain.pdb
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain\bin\Debug\Ninject.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain\bin\Debug\Ninject.Web.Common.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain\bin\Debug\WebActivatorEx.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain\bin\Debug\Ninject.xml
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain\bin\Debug\Ninject.Web.Common.xml
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Domain\bin\Debug\Ninject.Web.Mvc.xml

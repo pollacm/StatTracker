@@ -1,15 +1,20 @@
 ﻿using System.Collections.Generic;
 using System.Web.Http;
+using StatTracker.Controllers;
 using StatTracker.Domain;
 using StatTracker.Domain.Objects;
-using StatTracker.Repository.Mock;
 
 namespace StatTracker.api
 {
     [RoutePrefix("api/testapi")]
-    public class TestApiController : ApiController
+    public class TestApiController : StatTrackerApiControllerBase
     {
-        private readonly TestDomain _testDomain = new TestDomain(new TestRepositoryMock());
+        private readonly TestDomain _testDomain;
+
+        public TestApiController()
+        {
+            _testDomain = new TestDomain(StatTrackerContext);
+        }
 
         //GET api/testapi/all
         [HttpGet]

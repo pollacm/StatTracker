@@ -19,3 +19,8 @@ E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository\bin\Debug\StatTracke
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository\obj\Debug\StatTracker.Repository.csprojResolveAssemblyReference.cache
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository\obj\Debug\StatTracker.Repository.dll
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository\obj\Debug\StatTracker.Repository.pdb
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository\bin\Debug\Ninject.Web.Common.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository\bin\Debug\Ninject.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository\bin\Debug\WebActivatorEx.dll
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository\bin\Debug\Ninject.Web.Common.xml
+C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Repository\bin\Debug\Ninject.xml
