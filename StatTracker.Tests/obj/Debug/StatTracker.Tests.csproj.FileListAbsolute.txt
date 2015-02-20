@@ -159,3 +159,14 @@ C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Tests\bin\Debug\Ninject.W
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Tests\bin\Debug\WebActivatorEx.dll
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Tests\bin\Debug\Ninject.xml
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker.Tests\bin\Debug\Ninject.Web.Common.xml
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\bin\Debug\System.Web.Http.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\bin\Debug\Ninject.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\bin\Debug\Ninject.Web.Common.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\bin\Debug\WebActivatorEx.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\bin\Debug\System.Web.Http.xml
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\bin\Debug\Ninject.xml
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Tests\bin\Debug\Ninject.Web.Common.xml

@@ -198,3 +198,14 @@ C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker\bin\Ninject.dll
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker\bin\WebActivatorEx.dll
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker\bin\Ninject.Web.Common.xml
 C:\Users\rmicmp\Documents\Misc\StatTracker\StatTracker\bin\Ninject.xml
+E:\Misc\Code\StatTracker\StatTracker\StatTracker\bin\System.Net.Http.Formatting.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker\bin\System.Web.Http.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker\bin\System.Web.Http.WebHost.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker\bin\Ninject.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker\bin\Ninject.Web.Common.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker\bin\WebActivatorEx.dll
+E:\Misc\Code\StatTracker\StatTracker\StatTracker\bin\System.Net.Http.Formatting.xml
+E:\Misc\Code\StatTracker\StatTracker\StatTracker\bin\System.Web.Http.xml
+E:\Misc\Code\StatTracker\StatTracker\StatTracker\bin\System.Web.Http.WebHost.xml
+E:\Misc\Code\StatTracker\StatTracker\StatTracker\bin\Ninject.xml
+E:\Misc\Code\StatTracker\StatTracker\StatTracker\bin\Ninject.Web.Common.xml

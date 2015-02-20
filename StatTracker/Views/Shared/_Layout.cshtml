@@ -8,7 +8,7 @@
     @Scripts.Render("~/bundles/modernizr")
     
 </head>
-<body>
+<body data-ng-app="myApp" data-ng-controller="HomeController">
     <div id="pre-div">
         <div id="loader">
         </div>
@@ -29,25 +29,12 @@
             </div>
             <div class="navbar-collapse collapse move-me">
                 <ul class="nav navbar-nav navbar-right">
-
-                    <li>
-                        <a href="#home">HOME </a>
-                    </li>
-                    <li>
-                        @Html.ActionLink("TEST", "Index" , "Test" )
-                    </li>
-
-                    <li>
-                        <a href="#port-folio">GALLERY </a>
-                    </li>
-
-                    <li>
-                        <a href="#help">HOW TO HELP ? </a>
-                    </li>
-
-                    <li>
-                        <a href="#contact">CONTACT</a>
-                    </li>
+                    <li data-ng-class="{active : activeViewPath==='/home'}"><a href='#/home'>HOME</a></li>
+                    <li data-ng-class="{active : activeViewPath==='/test'}"><a href="#/test">TEST</a></li>
+                    <li data-ng-class="{active : activeViewPath==='/demo'}"><a href="#/demo">DEMO</a></li>
+                    <li data-ng-class="{active : activeViewPath==='/angular'}"><a href='#/angular'>LEARN ANGULAR</a></li>
+                    <li data-ng-class="{active : activeViewPath==='/about'}"><a href='#/about'>ABOUT</a></li>
+                    <li data-ng-class="{active : activeViewPath==='/contact'}"><a href='#/contact'>CONTACT</a></li>
                 </ul>
             </div>
 
@@ -56,15 +43,15 @@
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
     @Scripts.Render("~/bundles/angular")
+    @Scripts.Render("~/bundles/app")
     @RenderSection("scripts", required: false)
-    <div ng-app="myApp" class="overlay">
-        <div class="container">
-            @RenderBody()
-            <hr />
-            <footer>
-                <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
-            </footer>
-        </div>
+
+    <div class="container">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
     </div>
 </body>
 </html>
