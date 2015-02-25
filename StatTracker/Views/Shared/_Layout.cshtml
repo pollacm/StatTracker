@@ -8,11 +8,11 @@
     @Scripts.Render("~/bundles/modernizr")
     
 </head>
-<body data-ng-app="myApp" data-ng-controller="HomeController">
-    <div id="pre-div">
+<body data-ng-app="myApp" data-ng-controller="RootController">
+    @*<div id="pre-div">
         <div id="loader">
         </div>
-    </div>
+    </div>*@
     <!--/. PRELOADER END -->
     <div class="navbar navbar-default navbar-fixed-top move-me ">
         <div class="container">
@@ -41,7 +41,6 @@
         </div>
     </div>
     @Scripts.Render("~/bundles/jquery")
-    @Scripts.Render("~/bundles/bootstrap")
     @Scripts.Render("~/bundles/angular")
     @Scripts.Render("~/bundles/app")
     @RenderSection("scripts", required: false)

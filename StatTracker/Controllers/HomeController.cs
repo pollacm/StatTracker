@@ -16,6 +16,18 @@ namespace StatTracker.Controllers
             return View();
         }
 
+        public ActionResult Main()
+        {
+            ViewBag.Message = "Your application description page.";
+
+            return View();
+        }
+
+        public ActionResult Test()
+        {
+            return View();
+        }
+
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";

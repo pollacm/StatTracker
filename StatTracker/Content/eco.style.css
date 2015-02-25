@@ -38,7 +38,7 @@ h2 {
     
 }
 h3{
-    color:#159238;
+    color: rgb(191, 10, 10);
     
 }
  /*=====================================
@@ -212,6 +212,11 @@ background-image: linear-gradient(to right,rgba(0, 0, 0, .0001) 0%, rgba(0, 0, 0
     width:10px;
     height:10px;
     background:#159238;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+background-color: inherit;
+    font-weight: bold;
 }
 
 /*=====================================
