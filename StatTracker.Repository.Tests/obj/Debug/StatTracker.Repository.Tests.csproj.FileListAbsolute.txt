@@ -11,3 +11,4 @@ E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Tests\bin\Debug\Stat
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Tests\bin\Debug\StatTracker.Repository.Tests.pdb
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.dll
 E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.pdb
+E:\Misc\Code\StatTracker\StatTracker\StatTracker.Repository.Tests\obj\Debug\StatTracker.Repository.Tests.csprojResolveAssemblyReference.cache

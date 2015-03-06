@@ -19,7 +19,7 @@ namespace StatTracker.Domain
 
         public IEnumerable<Test> GetTestData()
         {
-            return _repository.GetTestData().ToList();
+            return _repository.GetTestData();
         }
 
         public Test GetTestByFirstName(string firstName)
